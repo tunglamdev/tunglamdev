@@ -13,30 +13,16 @@
  
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lam Nguyen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tunglamdev&show_icons=true&count_private=true&theme=react" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tunglamdev&show_icons=true&locale=en&layout=compact&theme=react" alt="tunglamdev" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/tunglamdev"><img alt="Lam Nguyen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tunglamdev&custom_title=Lam%20Nguyen's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+<p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lam Nguyen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tunglamdev&show_icons=true&count_private=true&theme=react" height="192px"/></a>
+	<br/>
+&nbsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tunglamdev&show_icons=true&locale=en&layout=compact&theme=react" alt="tunglamdev" height="192px"/>
+	<br/>
+	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 <br/>
 
