@@ -31,7 +31,7 @@
 	<a href="mailto:tunglam.contact@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
 	<a href="https://github.com/tunglamdev" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/ng-tung-lam" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
-	<a href="https://www.facebook.com/tunglam.it" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
+	<a href="https://www.facebook.com/nguyentunglam.it" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tunglamdev&label=Profile%20views&color=0e75b6&style=plastic" alt="tunglamdev" /> </p> 
